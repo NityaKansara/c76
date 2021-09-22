@@ -2,14 +2,12 @@ import * as firebase from "firebase";
 require("@firebase/firestore");
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBI_6KhkBRmacZ1wuIDJYA-H53CXyau-P0",
-  authDomain: "willy-app-f2f57.firebaseapp.com",
-  databaseURL: "https://willy-app-f2f57.firebaseio.com",
-  projectId: "willy-app-f2f57",
-  storageBucket: "willy-app-f2f57.appspot.com",
-  messagingSenderId: "957572252876",
-  appId: "1:957572252876:web:c77c38bb82a60591efee69",
-  measurementId: "G-4Y08PYMXK1"
+  apiKey: "AIzaSyCOqF0jp55DR-T1PniWteSunUku_xQqTzE",
+  authDomain: "wireless-library-ecdc0.firebaseapp.com",
+  projectId: "wireless-library-ecdc0",
+  storageBucket: "wireless-library-ecdc0.appspot.com",
+  messagingSenderId: "1030793590728",
+  appId: "1:1030793590728:web:7d85140d0c108b8377f2fd"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
